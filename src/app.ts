@@ -14,6 +14,7 @@ import App from './screens/App';
 
 ReactNativeScript.start(React.createElement(App, {}, null))
 
+
 /*
 Do not place any code after the application has been started as it will not
 be executed on iOS.
